@@ -1,5 +1,5 @@
 **Abdullah Hassan**
-+971568189886 | <eng.abdullahmourad@gmail.com>
+ | +971568189886 | <eng.abdullahmourad@gmail.com>
 
 **Candid Security Solutions – Advent of Code 9**
 
