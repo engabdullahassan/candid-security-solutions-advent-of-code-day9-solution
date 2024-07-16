@@ -125,9 +125,6 @@ if \_\_name\_\_ == "\_\_main\_\_":
 `    `main()
 
 
-Results:
-
-![](Aspose.Words.f7736d7d-1637-4425-8791-a91556118a2d.001.png)
 
 
 
